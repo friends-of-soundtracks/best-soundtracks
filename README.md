@@ -2,6 +2,7 @@ Best soundtracks of all times.
 
 - [Hans Zimmer](hans-zimmer)
 - [John Williams](john-williams)
+- [Vangelis](vangelis)
 
 ## Hans Zimmer
 
