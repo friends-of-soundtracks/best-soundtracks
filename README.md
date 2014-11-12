@@ -1,8 +1,8 @@
 Best soundtracks of all times.
 
-- [Hans Zimmer](hans-zimmer)
-- [John Williams](john-williams)
-- [Basil Poledouris](basil-poledouris)
+- [Hans Zimmer](#hans-zimmer)
+- [John Williams](#john-williams)
+- [Basil Poledouris](#basil-poledouris)
 
 ## Hans Zimmer
 
