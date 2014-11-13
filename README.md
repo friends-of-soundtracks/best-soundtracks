@@ -3,7 +3,7 @@ Best soundtracks of all times.
 - [Hans Zimmer](#hans-zimmer)
 - [Basil Poledouris](#basil-poledouris)
 - [Daft Punk](#daft-punk)
-- [Vangelis](vangelis)
+- [Vangelis](#vangelis)
 
 ## Hans Zimmer
 
