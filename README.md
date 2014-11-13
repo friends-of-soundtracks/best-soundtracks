@@ -2,6 +2,7 @@ Best soundtracks of all times.
 
 - [Hans Zimmer](#hans-zimmer)
 - [Basil Poledouris](#basil-poledouris)
+- [Daft Punk](#daft-punk)
 - [Vangelis](vangelis)
 
 ## Hans Zimmer
@@ -11,6 +12,10 @@ Best soundtracks of all times.
 ## Basil Poledouris 
 
 * Conan the Barbarian: [Spotify](http://open.spotify.com/user/onewarriorgod/playlist/2XQWbAk9SU2JTyJMOGGuLT) - [iTunes](https://itunes.apple.com/us/album/conan-barbarian-original-motion/id596468716) - [Grooveshark](http://grooveshark.com/#!/profile/Conan+The+Barbarian/22261687)
+
+## Daft Punk
+
+* TRON Legacy: [Spotify](http://open.spotify.com/album/2GC8kfyiyPjyheUUWyEY8F) - [iTunes](https://itunes.apple.com/es/album/tron-legacy-original-motion/id715635668?l=en) - [Grooveshark](http://grooveshark.com/#!/album/TRON+Legacy/5055524)
 
 ## Vangelis
 
